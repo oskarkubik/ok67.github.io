@@ -1,0 +1,28 @@
+body {
+    background-color: #202020;
+    color: aliceblue;
+}
+
+.footer {
+    text-align: center;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.menu {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.about {
+    font-size: large;
+    justify-content: center;
+}
